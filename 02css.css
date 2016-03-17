@@ -1,0 +1,154 @@
+body{
+    background-color: darkgrey;
+    padding:0px;
+    margin:0px;
+}
+.nav_div{
+    width:100%;
+    height:80px;
+    background-color:brown;
+}
+.leftbody{
+    width:70%;
+    height: auto;
+    float: left;
+}
+#daohang{
+    float: right;
+    margin-top:20px;
+}
+#daohang ul li{
+    list-style-type: none;
+    display: inline;
+
+}
+#daohang ul li a{
+    color: white;
+    text-decoration:none;
+}
+.bbody{
+    width: 100%;
+    height: auto;
+}
+.div1 {
+    width:90%;
+    height: auto;
+    padding:20px;
+    margin: 20px auto;
+    background-color:white;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+
+}
+h3{
+    color: grey;
+}
+h4{
+    color:grey;
+    font-size:small;
+}
+
+.div2{
+    width:90%;
+    padding:20px;
+    margin: 20px auto;
+    background-color:white;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+
+}
+figure{
+    width: 250px;
+    margin: 10px 40px;
+    text-align: center;
+    border: 1px black solid;
+    padding: 10px 0;
+}
+
+.div2 table{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.div2 table th,td{
+    border: 1px solid grey;
+}
+.table th{
+    background-color: darkgray;
+    color: white;
+    font-size: large;
+}
+.table tfoot{
+    background-color: gray;
+}
+
+h1{
+    margin-left: 20px;
+}
+.last{
+    text-align:center;
+}
+#submit{
+    width: 100%;
+    height: 50px;
+    font-size: large;
+    text-align: center;
+    background-color: olivedrab;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+
+}
+
+form>label{
+    display: inline-block;
+    width: 26%;
+    text-align: right;
+    margin: 10px;
+}
+
+
+.left{
+    float: left;
+    width: 40%;
+    text-align: right;
+}
+
+.center{
+    width:5%;
+    height: 50px;
+    float:left;
+    background-color: white;
+}
+.right{
+    width: 55%;
+   float:left;
+    text-align:left;
+}
+
+span{
+    font-size: 10px;
+    color: #C1C1C1;
+}
+
+.fffoot{
+    text-align: center;
+    clear: both;
+    bottom:0px;
+    width:auto;
+    height:30px;
+    background-color: brown;
+    padding:10px;
+}
+.rightbody{
+    width:25%;
+    padding:20px;
+    margin: 20px auto;
+    background-color:white;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    float: left;
+}
